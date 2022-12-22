@@ -13,9 +13,8 @@ public class MenuService {
             ##  WELCOME ###############
             ##  Choose on option (input your choice and enter   ##
             ##  1 - Calculator   ##
-            ##  1 - Shop   ##
-            ##  0 - Exit     ##
-            """;
+            ##  2 - Shop   ##
+.            """;
     private static final String ASKING = "Votre choix -> ";
 
     public void start() {
